@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: linear-gradient(90deg, rgba(11, 119, 9, 1) 1%, rgba(36, 42, 42, 0.6446953781512605) 96%);
+  
+}
+
+div {
+    display: block;
+
+}
+
+h1 {
+    font-size: 50px;
+    padding: 3%;
+    color: fuchsia;
+    text-align: center;
+    margin: auto;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin-top: 0%;
+    display: block;
+    margin: 0 auto;
+    visibility: hidden;
+}
+
+input {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-inline: 10px;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+ 
+}
+
+button {
+    padding: 25px;
+    background-color: blueviolet;
+    margin-top: 3%;
+    border-radius: 10px;
+    border-color: blue;
+    display: block;
+    margin: 0 auto;
+}
